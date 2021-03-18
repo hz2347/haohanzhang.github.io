@@ -1,2 +1,2 @@
 # haohanzhang.github.io
-This respostory keeps the files that shared publicly.
+This respository keeps the files that are shared publicly.
